@@ -21,8 +21,10 @@ New ::: Comments
 10. git commit -m "First commit" ::: Adds new files to the local repository for tracking
 11. git push -u origin master ::: Push all changes to GitHUb where the path == origin and the branch == master. 
 
-Notes::: If you get an error about 
+Notes::: If you get an error try pull the files for Git HUb first before pushing. 
+git pull origin master ::: Pull files to your local repository
 
 
 Work flow: 
-Create a new folder on my computer
+Create a new folder on my computer 
+Stage 
